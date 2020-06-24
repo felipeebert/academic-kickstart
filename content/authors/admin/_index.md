@@ -21,7 +21,7 @@ organizations:
 bio: My research interests are related to how software sytems and developers interact with each other. I'm interested in both technical and social aspects of software maintenance, specifically code reviews, mining software repositories, and also social development aspects. In the past, I also have worked with error handling and software energy consumption.
 
 interests:
-- Experimental Software Engineering
+- Software Engineering
 - Software Maintenance
 - Mining Software Repositories
 
@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hello! Since March of 2020, I started a second postdoctoral period at the <a target="_blank" href="https://www.tue.nl/en/our-university/departments/mathematics-and-computer-science/" rel="nofollow">Department of Mathematics and Computer Science</a>, Eindhoven University of Technology (<a target="_blank" href="https://www.tue.nl/en/" rel="nofollow">TU/e</a>), working with of Prof. <a target="_blank" href="https://www.win.tue.nl/~aserebre" rel="nofollow">Alexander Serebrenik</a>. From March of 2019 to February of 2020, I worked as a postdoctoral researcher at the Informatics Center (<a target="_blank" href="http://www.cin.ufpe.br" rel="nofollow">CIn</a>), Federal University of Pernambuco (<a target="_blank" href="http://www.ufpe.br" rel="nofollow">UFPE</a>), along with the Prof. <a target="_blank" href="https://sites.google.com/a/cin.ufpe.br/castor" rel="nofollow">Fernando Castor</a>. In 2019 I obtained my PhD degree from CIn-UFPE under supervision of Prof. <a target="_blank" href="https://sites.google.com/a/cin.ufpe.br/castor" rel="nofollow">Fernando Castor</a> and Prof. <a target="_blank" href="https://www.win.tue.nl/~aserebre" rel="nofollow">Alexander Serebrenik</a>. In 2013 I obtained my master's degree from CIn-UFPE, working under supervision of Prof. <a target="_blank" href="https://sites.google.com/a/cin.ufpe.br/castor" rel="nofollow">Fernando Castor</a>. In 2009 I got my bachelor's degree from CIn-UFPE.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My research interests are related to how software sytems and developers interact with each other. I'm interested in both technical and social aspects of software maintenance, specifically code reviews, mining software repositories, and also social development aspects. In the past, I also have worked with error handling and software energy consumption.
