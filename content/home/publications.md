@@ -67,6 +67,6 @@ subtitle = ""
  css_class = ""
 +++
 
-{{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}
+Here I list my latest publications. 
+The full list is available [here]({{< ref "/publication/_index.md" >}}).
+You can also check my publication lists at [DBLP](https://dblp.uni-trier.de/pers/hd/e/Ebert:Felipe) and [Google Scholar](https://scholar.google.com.br/citations?user=0_kRyLwAAAAJ&hl=en&oi=ao).
