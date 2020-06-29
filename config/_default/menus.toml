@@ -9,9 +9,9 @@
   weight = 10
 
 [[main]]
-#  name = "Posts"
-#  url = "#posts"
-#  weight = 20
+  name = "Theses"
+  url = "#posts"
+  weight = 20
 
 [[main]]
   name = "Talks"
