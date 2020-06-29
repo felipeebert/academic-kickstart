@@ -7,7 +7,7 @@ summary: "Master in Computer Science / 2011 - 2013"
 authors: []
 tags: [exception handling, bugs, eh-bugs]
 categories: []
-date: 2013-08-13 #29T12:02:40+02:00
+date: 2013-08-02 #29T12:02:40+02:00
 lastmod:
 featured: false
 draft: false
