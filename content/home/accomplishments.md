@@ -5,12 +5,12 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Awards"
 subtitle = ""
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
+date_format = "2006"
 
 # Accomplishments.
 #   Add/remove as many `[[item]]` blocks below as you like.
@@ -18,34 +18,34 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-#[[item]]
-#  organization = "Coursera"
-#  organization_url = "https://www.coursera.org"
-#  title = "Neural Networks and Deep Learning"
-#  url = ""
-#  certificate_url = "https://www.coursera.org"
-#  date_start = "2018-10-01"
-#  date_end = ""
-#  description = ""
+[[item]]
+  organization = "Informatics Center from Federal University of Pernambuco (CIn/UFPE)"
+  organization_url = "https://www3.cin.ufpe.br/en/"
+  title = "Best PhD thesis of 2019 at the Informatics Center from Federal University of Pernambuco (CIn/UFPE)"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-10-01"
+  date_end = ""
+  description = ""
 
-#[[item]]
-#  organization = "edX"
-#  organization_url = "https://www.edx.org"
-#  title = "Blockchain Fundamentals"
-#  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-#  certificate_url = "https://www.edx.org"
-#  date_start = "2018-03-01"
-#  date_end = ""
-#  description = "Formulated informed blockchain models, hypotheses, and use cases."
+[[item]]
+  organization = "IEEE International Conference on Software Analysis, Evolution, and Reengineering (SANER'2019)"
+  organization_url = "https://saner2019.github.io/program/accepted.html"
+  title = "Best paper award"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-03-01"
+  date_end = ""
+  description = ""
 
-#[[item]]
-#  organization = "DataCamp"
-#  organization_url = "https://www.datacamp.com"
-#  title = "Object-Oriented Programming in R: S3 and R6 Course"
-#  url = ""
-#  certificate_url = "https://www.datacamp.com"
-#  date_start = "2017-07-01"
-#  date_end = "2017-12-21"
-#  description = ""
+[[item]]
+  organization = "XIII Brazilian Symposium on Software Components, Architectures, and Reuse (SBCARS'2019)"
+  organization_url = "https://cbsoft2019.ufba.br/#/sbcars"
+  title = "Distinguished Reviewer Award"
+  url = ""
+  certificate_url = "services/reviewer-sbcards.jpg"
+  date_start = "2019-01-01"
+  date_end = ""
+  description = ""
 
 +++

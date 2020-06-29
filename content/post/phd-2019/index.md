@@ -13,7 +13,6 @@ featured: false
 draft: false
 reading_time: false
 commentable: false
-url_custom: www.youtube.com/watch?v=SH_ibr89RbQ
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -31,6 +30,6 @@ image:
 projects: []
 ---
 
-Elected the best PhD thesis of 2019 at CIn/UFPE! <br>
-Currently competing for the national award "<a target="_blank" href="https://www.capes.gov.br/36-noticias/10316-abertas-as-inscricoes-para-o-premio-capes-2020">Prêmio CAPES de Tese</a>". <br>
-I also presented my thesis in the 3 Minute Thesis format in Portuguese on <a target="_blank" href="https://www.youtube.com/watch?v=SH_ibr89RbQ">YouTube</a>.
+Elected the best PhD thesis of 2019 at CIn/UFPE! \
+Currently competing for the national award ["Prêmio CAPES de Tese"](https://www.capes.gov.br/36-noticias/10316-abertas-as-inscricoes-para-o-premio-capes-2020).\
+I also presented my thesis in the 3 Minute Thesis format in Portuguese on YouTube: {{< youtube SH_ibr89RbQ >}}

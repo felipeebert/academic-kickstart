@@ -14,6 +14,12 @@
   weight = 20
 
 [[main]]
+  name = "Awards"
+  url = "#accomplishments"
+  weight = 20
+
+
+[[main]]
   name = "Talks"
   url = "#talks"
   weight = 30
@@ -23,10 +29,10 @@
   url = "#publications"
   weight = 40
 
-#[[main]]
-#  name = "Community Services"  # Title of the link.
-#  url = "services/"  # Widget Page folder name.
-#  weight = 50  # Position of the link in the navigation bar.
+[[main]]
+  name = "Community Services"  # Title of the link.
+  url = "services/"  # Widget Page folder name.
+  weight = 50  # Position of the link in the navigation bar.
 
 [[main]]
   name = "Contact"
