@@ -26,17 +26,17 @@ date_format = "2006"
   certificate_url = ""
   date_start = "2020-10-01"
   date_end = ""
-  description = ""
+  description = "Title: [Understanding Confusion in Code Reviews](post/phd-2019/phd-2019.pdf)"
 
 [[item]]
-  organization = "IEEE International Conference on Software Analysis, Evolution, and Reengineering (SANER'2019)"
+  organization = "International Conference on Software Analysis, Evolution, and Reengineering (SANER'2019)"
   organization_url = "https://saner2019.github.io/program/accepted.html"
-  title = "Best paper award"
+  title = "Best Paper Award"
   url = ""
   certificate_url = ""
   date_start = "2019-03-01"
   date_end = ""
-  description = ""
+  description = "Title: [Confusion in Code Reviews: Reasons, Impacts, and Coping Strategies](publication/ebert-saner-2019/ebert-saner-2019.pdf)"
 
 [[item]]
   organization = "XIII Brazilian Symposium on Software Components, Architectures, and Reuse (SBCARS'2019)"

@@ -30,6 +30,8 @@ image:
 projects: []
 ---
 
-Elected the best PhD thesis of 2019 at CIn/UFPE! \
-Currently competing for the national award ["Prêmio CAPES de Tese"](https://www.capes.gov.br/36-noticias/10316-abertas-as-inscricoes-para-o-premio-capes-2020).\
+Elected the best PhD thesis of 2019 at CIn/UFPE!
+
+Currently competing for the national award ["Prêmio CAPES de Tese"](https://www.capes.gov.br/36-noticias/10316-abertas-as-inscricoes-para-o-premio-capes-2020).
+
 I also presented my thesis in the 3 Minute Thesis format in Portuguese on YouTube: {{< youtube SH_ibr89RbQ >}}

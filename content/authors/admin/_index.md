@@ -70,7 +70,7 @@ user_groups:
 - Visitors
 ---
 
-Hello! Since March of 2020, I started a second postdoctoral period at the [Department of Mathematics and Computer Science](https://www.tue.nl/en/our-university/departments/mathematics-and-computer-science/), Eindhoven University of Technology [(TU/e)](https://www.tue.nl/en/), working with of Prof. [Alexander Serebrenik](https://www.win.tue.nl/~aserebre). From March of 2019 to February of 2020, I worked as a postdoctoral researcher at the Informatics Center [(CIn)](https://www3.cin.ufpe.br/en/), Federal University of Pernambuco [(UFPE)](https://www.ufpe.br), along with the Prof. [Fernando Castor](https://sites.google.com/a/cin.ufpe.br/castor).
+Hello! Since March of 2020, I started a second postdoctoral period at the [Department of Mathematics and Computer Science](https://www.tue.nl/en/our-university/departments/mathematics-and-computer-science/), Eindhoven University of Technology [(TU/e)](https://www.tue.nl/en/), working with Prof. [Alexander Serebrenik](https://www.win.tue.nl/~aserebre). From March of 2019 to February of 2020, I worked as a postdoctoral researcher at the Informatics Center [(CIn)](https://www3.cin.ufpe.br/en/), Federal University of Pernambuco [(UFPE)](https://www.ufpe.br), along with the Prof. [Fernando Castor](https://sites.google.com/a/cin.ufpe.br/castor).
 
 In 2019 I obtained my PhD degree from CIn-UFPE under supervision of Prof. [Fernando Castor](https://sites.google.com/a/cin.ufpe.br/castor) and Prof. [Alexander Serebrenik](https://www.win.tue.nl/~aserebre). In 2013 I obtained my master's degree from CIn-UFPE, working under supervision of Prof. [Fernando Castor](https://sites.google.com/a/cin.ufpe.br/castor). In 2009 I got my bachelor's degree from CIn-UFPE.
 
