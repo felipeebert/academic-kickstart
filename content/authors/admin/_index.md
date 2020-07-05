@@ -51,6 +51,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=0_kRyLwAAAAJ&hl=en&oi=ao
+- icon: dblp
+  icon_pack: ai
+  link: https://dblp.uni-trier.de/pers/hd/e/Ebert:Felipe
 - icon: github
   icon_pack: fab
   link: https://github.com/felipeebert/
