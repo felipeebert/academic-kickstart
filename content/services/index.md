@@ -36,7 +36,8 @@ header:
 
 
 #### Individual Reviews:
-- Transactions on Software Engineering (TSE'2020)
+- Transactions on Software Engineering (TSE)
+- Science of Computer Programming (Original Software Publications)
 
 
 #### Student Volunteer:
