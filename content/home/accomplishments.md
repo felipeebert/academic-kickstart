@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Awards"
+title = "Grants & Awards"
 subtitle = ""
 
 # Date format
@@ -47,5 +47,35 @@ date_format = "2006"
   date_start = "2019-01-01"
   date_end = ""
   description = ""
+
+[[item]]
+  organization = "Coordination for the Personnel Improvement of Higher Education (Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - CAPES)"
+  organization_url = "https://www.capes.gov.br"
+  title = "PhD Scholarship - Sandwich Doctorate Program Abroad (Programa De Doutorado Sanduíche No Exterior - PDSE)"
+  url = ""
+  certificate_url = ""
+  date_start = "2017-03-01"
+  date_end = "2018-02-28"
+  description = "Scholarship to spend one year working at TU/e granted by the CAPES."
+
+[[item]]
+  organization = "Science and Technology Support Foundation of Pernambuco (Fundação de Amparo a Ciência e Tecnologia do Estado de Pernambuco - FACEPE)"
+  organization_url = "http://www.facepe.br"
+  title = "PhD Scholarship - Aid to Student Mobility (Auxílio à Mobilidade Discente - ADM)"
+  url = ""
+  certificate_url = ""
+  date_start = "2016-10-09"
+  date_end = "2017-01-07"
+  description = "Scholarship to spend 3 months working at TU/e granted by the FACEPE."
+
+[[item]]
+  organization = "Science and Technology Support Foundation of Pernambuco (Fundação de Amparo a Ciência e Tecnologia do Estado de Pernambuco - FACEPE)"
+  organization_url = "http://www.facepe.br"
+  title = "PhD Scholarship"
+  url = ""
+  certificate_url = ""
+  date_start = "2014-03-01"
+  date_end = "2018-01-01"
+  description = "Scholarship for my PhD program at UFPE granted by the FACEP."
 
 +++
