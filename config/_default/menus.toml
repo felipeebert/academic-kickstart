@@ -30,6 +30,11 @@
   weight = 40
 
 [[main]]
+  name = "Teaching"
+  url = "#teaching"
+  weight = 45
+
+[[main]]
   name = "Community Services"  # Title of the link.
   url = "services/"  # Widget Page folder name.
   weight = 50  # Position of the link in the navigation bar.
