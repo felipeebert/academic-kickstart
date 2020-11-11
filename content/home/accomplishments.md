@@ -19,6 +19,16 @@ date_format = "2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "XIV Brazilian Symposium on Software Components, Architectures, and Reuse (SBCARS'2020)"
+  organization_url = "http://cbsoft2020.imd.ufrn.br/sbcars.php"
+  title = "Distinguished Reviewer Award"
+  url = ""
+  certificate_url = "services/reviewer-sbcars-2020.png"
+  date_start = "2020-10-01"
+  date_end = ""
+  description = ""
+
+[[item]]
   organization = "Informatics Center from Federal University of Pernambuco (CIn/UFPE)"
   organization_url = "https://www3.cin.ufpe.br/en/"
   title = "Best PhD thesis of 2019 at the Informatics Center from Federal University of Pernambuco (CIn/UFPE)"
@@ -43,7 +53,7 @@ date_format = "2006"
   organization_url = "https://cbsoft2019.ufba.br/#/sbcars"
   title = "Distinguished Reviewer Award"
   url = ""
-  certificate_url = "services/reviewer-sbcards.jpg"
+  certificate_url = "services/reviewer-sbcars-2019.jpg"
   date_start = "2019-01-01"
   date_end = ""
   description = ""
@@ -76,6 +86,6 @@ date_format = "2006"
   certificate_url = ""
   date_start = "2014-03-01"
   date_end = "2018-01-01"
-  description = "Scholarship for my PhD program at UFPE granted by the FACEP."
+  description = "Scholarship for my PhD program at UFPE granted by the FACEPE."
 
 +++

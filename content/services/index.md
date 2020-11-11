@@ -1,6 +1,6 @@
 ---
 title: Community Services
-#summary: 
+#summary:
 #date: "2020-06-29T00:00:00Z"
 
 reading_time: false  # Show estimated reading time?
@@ -20,12 +20,12 @@ header:
   - International Conference on Software Maintenance and Evolution - Doctoral Symposium [(ICSME'2020)](https://icsme2020.github.io/ProgramCommittee.html)
   - Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering - Student Research Competition [(ESEC/FSE'2020)](https://2020.esec-fse.org/track/esecfse-2020-student-research-competition)
   - Seminar Series On Advanced Techniques & Tools For Software Evolution [(SATToSE'2020)](http://sattose.org/2020)
-  - XIV Brazilian Symposium on Software Components, Architectures, and Reuse [(SBCARS'2020)](http://cbsoft2020.imd.ufrn.br/sbcars.php)
+  - XIV Brazilian Symposium on Software Components, Architectures, and Reuse [(SBCARS'2020)](http://cbsoft2020.imd.ufrn.br/sbcars.php) - [**distinguished reviewer award!**](reviewer-sbcars-2020.png)
   - VIII Workshop on Software Visualization, Evolution and Maintenance [(VEM'2020)](https://vem2020.github.io/vem2020/index.html)
 
 - 2019:
   - XXXIII Brazilian Symposium on Software Engineering - Insightful Ideas & Emerging Results Track [(SBES'2019)](https://cbsoft2019.ufba.br/#/sbesInsightfulideastrack)
-  - XIII Brazilian Symposium on Software Components, Architectures, and Reuse [(SBCARS'2019)](https://cbsoft2019.ufba.br/#/sbcars) - [**distinguished reviewer award!**](reviewer-sbcards.jpg)
+  - XIII Brazilian Symposium on Software Components, Architectures, and Reuse [(SBCARS'2019)](https://cbsoft2019.ufba.br/#/sbcars) - [**distinguished reviewer award!**](reviewer-sbcars-2019.jpg)
   - VII Workshop on Software Visualization, Evolution and Maintenance [(VEM'2019)](https://vem2019.github.io/committee.html)
 
 - 2018:
@@ -36,6 +36,7 @@ header:
 
 
 #### Individual Reviews:
+- Empirical Software Engineering (EMSE)
 - Transactions on Software Engineering (TSE)
 - Science of Computer Programming (Original Software Publications)
 
