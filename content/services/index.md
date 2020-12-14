@@ -38,6 +38,7 @@ header:
 #### Individual Reviews:
 - Empirical Software Engineering (EMSE)
 - Transactions on Software Engineering (TSE)
+- IEEE Software
 - Science of Computer Programming (Original Software Publications)
 
 
