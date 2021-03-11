@@ -25,6 +25,8 @@ header:
         * [Registered Reports](https://2021.msrconf.org/track/msr-2021-registered-reports)
     * International Conference on Automated Software Engineering [(ASE)](https://conf.researchr.org/home/ase-2021):
         * [Late Breaking Results](https://conf.researchr.org/track/ase-2021/ase-2021-late-breaking-results)
+    * 15th Brazilian Symposium on Software Components, Architectures, and Reuse [(SBCARS)](http://cbsoft2021.joinville.udesc.br/sbcars.php)
+<br/>
 <br/>
 * 2020:
     * International Conference on Software Maintenance and Evolution [(ICSME)](https://icsme2020.github.io):
@@ -34,6 +36,7 @@ header:
     * Seminar Series On Advanced Techniques & Tools For Software Evolution [(SATToSE)](http://sattose.org/2020)
     * XIV Brazilian Symposium on Software Components, Architectures, and Reuse [(SBCARS)](http://cbsoft2020.imd.ufrn.br/sbcars.php) - [**distinguished reviewer award!**](reviewer-sbcars-2020.png)
     * VIII Workshop on Software Visualization, Evolution and Maintenance [(VEM)](https://vem2020.github.io/vem2020/index.html)
+<br/>
 <br/>
 * 2019:
     * XXXIII Brazilian Symposium on Software Engineering [(SBES)](https://cbsoft2019.ufba.br/#/sbes):
