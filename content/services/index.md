@@ -17,6 +17,8 @@ header:
 
 #### Program Committee:
 * 2021:
+    * Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering [(ESEC/FSE)](https://2021.esec-fse.org):
+        * [Artifact Evaluation](https://2021.esec-fse.org/track/fse-2021-artifacts)
     * International Conference on Software Maintenance and Evolution [(SANER)](https://icsme2021.github.io/cfp/NIERTrack.html):
         * [New Ideas and Emerging Results](https://icsme2021.github.io/cfp/NIERTrack.html)
     * Mining Software Repositories Conference [(MSR)](https://2021.msrconf.org):
