@@ -14,8 +14,12 @@ header:
   image: ""
 ---
 
+#### Organizing Committee Member:
+* 1st Workshop on Automated Support to Improve code Readability - [AeSIR](https://aesir2021.github.io/index.html) (Collocated with [ASE 2021](https://conf.researchr.org/track/ase-2021/ase-2021-workshops)): co-chair
+* 9th Workshop on Software Visualization, Evolution and Maintenance - [VEM](#) (Collocated with [CBSoft 2021](http://cbsoft2021.joinville.udesc.br/)): co-chair  
 
-#### Program Committee:
+
+#### Program Committee Member:
 * 2021:
     * Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering [(ESEC/FSE)](https://2021.esec-fse.org):
         * [Artifact Evaluation](https://2021.esec-fse.org/track/fse-2021-artifacts)
@@ -58,6 +62,7 @@ header:
 #### Journal Reviews:
 * Empirical Software Engineering (EMSE)
 * Transactions on Software Engineering (TSE)
+* Journal of Systems & Software (JSS)
 * IEEE Software
 * Science of Computer Programming (Original Software Publications)
 * IET Software
