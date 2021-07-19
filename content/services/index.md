@@ -15,12 +15,15 @@ header:
 ---
 
 #### Organizing Committee Member:
+* The 2022 Mining Software Repositories Conference - [MSR](https://conf.researchr.org/home/msr-2022): hybridization co-chair
 * 1st Workshop on Automated Support to Improve code Readability - [AeSIR](https://aesir2021.github.io/index.html) (Collocated with [ASE 2021](https://conf.researchr.org/track/ase-2021/ase-2021-workshops)): co-chair
 * 9th Workshop on Software Visualization, Evolution and Maintenance - [VEM](#) (Collocated with [CBSoft 2021](http://cbsoft2021.joinville.udesc.br/)): co-chair  
 
 
 #### Program Committee Member:
 * 2021:
+    * International Conference on Software Maintenance and Evolution [(ICSME)](https://icsme2021.github.io/):
+        * [New Ideas and Emerging Results (NIER)](https://icsme2021.github.io/ProgramCommittee.html)
     * Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering [(ESEC/FSE)](https://2021.esec-fse.org):
         * [Artifact Evaluation](https://2021.esec-fse.org/track/fse-2021-artifacts)
     * International Conference on Software Maintenance and Evolution [(SANER)](https://icsme2021.github.io/cfp/NIERTrack.html):
@@ -31,6 +34,7 @@ header:
         * [Registered Reports](https://2021.msrconf.org/track/msr-2021-registered-reports)
     * International Conference on Automated Software Engineering [(ASE)](https://conf.researchr.org/home/ase-2021):
         * [Late Breaking Results](https://conf.researchr.org/track/ase-2021/ase-2021-late-breaking-results)
+        * [Artifact Evaluation](https://conf.researchr.org/track/ase-2021/ase-2021-artifact-evaluation)
     * 15th Brazilian Symposium on Software Components, Architectures, and Reuse [(SBCARS)](http://cbsoft2021.joinville.udesc.br/sbcars.php)
 <br/>
 <br/>
@@ -65,7 +69,7 @@ header:
 * Journal of Systems & Software (JSS)
 * IEEE Software
 * Science of Computer Programming (Original Software Publications)
-* IET Software
+* Institution of Engineering and Technology (IET) Software
 
 
 #### Student Volunteer:
