@@ -21,6 +21,11 @@ header:
 
 
 #### Program Committee Member:
+* 2022:
+    * International Conference on Software Maintenance and Evolution [(SANER)](https://saner2022.uom.gr/):
+        * [Technical Track]()
+<br/>
+<br/>
 * 2021:
     * International Conference on Software Maintenance and Evolution [(ICSME)](https://icsme2021.github.io/):
         * [New Ideas and Emerging Results (NIER)](https://icsme2021.github.io/ProgramCommittee.html)
