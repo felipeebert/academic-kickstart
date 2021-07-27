@@ -22,7 +22,9 @@ header:
 
 #### Program Committee Member:
 * 2022:
-    * International Conference on Software Maintenance and Evolution [(SANER)](https://saner2022.uom.gr/):
+    * Mining Software Repositories Conference [(MSR)](https://conf.researchr.org/home/msr-2022):
+        * [Technical Track]()
+    * International Conference on Software Maintenance and Evolution [(SANER)](https://saner2022.uom.gr):
         * [Technical Track]()
 <br/>
 <br/>
