@@ -15,7 +15,7 @@ header:
 ---
 
 #### Organizing Committee Member:
-* The 2022 Mining Software Repositories Conference - [MSR](https://conf.researchr.org/home/msr-2022): hybridization co-chair
+* The 2022 Mining Software Repositories Conference - [MSR](https://conf.researchr.org/committee/msr-2022/msr-2022-organizing-committee): hybridization co-chair
 * 1st Workshop on Automated Support to Improve code Readability - [AeSIR](https://aesir2021.github.io/index.html) (Collocated with [ASE 2021](https://conf.researchr.org/track/ase-2021/ase-2021-workshops)): co-chair
 * 9th Workshop on Software Visualization, Evolution and Maintenance - [VEM](#) (Collocated with [CBSoft 2021](http://cbsoft2021.joinville.udesc.br/)): co-chair  
 
