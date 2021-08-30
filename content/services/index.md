@@ -23,14 +23,15 @@ header:
 #### Program Committee Member:
 * 2022:
     * Mining Software Repositories Conference [(MSR)](https://conf.researchr.org/home/msr-2022):
-        * [Technical Track]()
+        * [Technical Track](https://conf.researchr.org/committee/msr-2022/msr-2022-technical-papers-program-committee)
     * International Conference on Software Maintenance and Evolution [(SANER)](https://saner2022.uom.gr):
-        * [Technical Track]()
+        * [Technical Track](https://saner2022.uom.gr/programCommittee)
 <br/>
 <br/>
 * 2021:
     * International Conference on Software Maintenance and Evolution [(ICSME)](https://icsme2021.github.io/):
         * [New Ideas and Emerging Results (NIER)](https://icsme2021.github.io/ProgramCommittee.html)
+        * [Artifact Evaluation](https://icsme2021.github.io/ProgramCommittee.html)
     * Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering [(ESEC/FSE)](https://2021.esec-fse.org):
         * [Artifact Evaluation](https://2021.esec-fse.org/track/fse-2021-artifacts)
     * International Conference on Software Maintenance and Evolution [(SANER)](https://icsme2021.github.io/cfp/NIERTrack.html):
