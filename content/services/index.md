@@ -26,6 +26,8 @@ header:
         * [Technical Track](https://conf.researchr.org/committee/msr-2022/msr-2022-technical-papers-program-committee)
     * International Conference on Software Maintenance and Evolution [(SANER)](https://saner2022.uom.gr):
         * [Technical Track](https://saner2022.uom.gr/programCommittee)
+    * International Conference on Program Comprehension [(ICPC)](https://conf.researchr.org/home/icpc-2022):
+        * [Technical Track](#)      
 <br/>
 <br/>
 * 2021:
@@ -34,8 +36,6 @@ header:
         * [Artifact Evaluation](https://icsme2021.github.io/ProgramCommittee.html)
     * Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering [(ESEC/FSE)](https://2021.esec-fse.org):
         * [Artifact Evaluation](https://2021.esec-fse.org/track/fse-2021-artifacts)
-    * International Conference on Software Maintenance and Evolution [(SANER)](https://icsme2021.github.io/cfp/NIERTrack.html):
-        * [New Ideas and Emerging Results](https://icsme2021.github.io/cfp/NIERTrack.html)
     * Mining Software Repositories Conference [(MSR)](https://2021.msrconf.org):
         * [Technical Track](https://2021.msrconf.org/track/msr-2021-technical-papers)
         * [Data Showcase](https://2021.msrconf.org/track/msr-2021-data-showcase)
