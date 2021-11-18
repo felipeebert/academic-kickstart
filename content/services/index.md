@@ -27,8 +27,8 @@ header:
     * International Conference on Software Maintenance and Evolution [(SANER)](https://saner2022.uom.gr):
         * [Technical Track](https://saner2022.uom.gr/programCommittee)
     * International Conference on Program Comprehension [(ICPC)](https://conf.researchr.org/home/icpc-2022):
-        * [Technical Track](#)      
-<br/>
+        * [Technical Track](https://conf.researchr.org/committee/icpc-2022/icpc-2022-research-program-committee)
+    * International Workshop on Recruiting Participants for Empirical Software Engineering [(RoPES)](https://ropes-workshops.github.io/ropes22/)      
 <br/>
 * 2021:
     * International Conference on Software Maintenance and Evolution [(ICSME)](https://icsme2021.github.io/):

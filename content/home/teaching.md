@@ -8,8 +8,10 @@ title = "Teaching"
 
 +++
 
-- Guest Lecture at Software Evolution - 2020-2021 Q3 [(2IMP25)](https://osiris.tue.nl/osiris_student_tueprd/OnderwijsCatalogusSelect.do?selectie=cursus&collegejaar=2020&cursus=2IMP25) - [slides](files/software-evolution-2020.pdf)
-- Software/Web Engineering Projects - 2020-2021 Q3 [(2IPE0)](http://wwwis.win.tue.nl/2R690/2020-2021_Q3/index.html)
-- Programming - 2020-2021 Q1 [(2IP90)](https://osiris.tue.nl/osiris_student_tueprd/OnderwijsCatalogusSelect.do?selectie=cursus&collegejaar=2020&cursus=2IP90)
-- Software/Web Engineering Projects - 2019-2020 Q4 [(2IPE0)](http://wwwis.win.tue.nl/2R690/2019-2020_Q4/index.html)
-- Guest Lecture at Software Evolution - 2019-2020 Q4 [(2IMP25)](https://osiris.tue.nl/osiris_student_tueprd/OnderwijsCatalogusSelect.do?selectie=cursus&collegejaar=2019&cursus=2IMP25) - [slides](files/software-evolution-2019.pdf)
+- **Guest Lecture**: Applications of Data Science to Software Engineering - 2021-2022 Q2 - [slides](files/applications-of-data-science-for-se-2021.pdf)
+- **Course**: Programming - 2021-2022 Q1
+- **Guest Lecture**: Software Evolution - 2020-2021 Q3 - [slides](files/software-evolution-2020.pdf)
+- **Graduation Project**: Software/Web Engineering Projects - 2020-2021 Q3
+- **Course**: Programming - 2020-2021 Q1
+- **Graduation Project**: Software/Web Engineering Projects - 2019-2020 Q4
+- **Guest Lecture**: Software Evolution - 2019-2020 Q4 - [slides](files/software-evolution-2019.pdf)
