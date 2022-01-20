@@ -24,6 +24,7 @@ header:
 * 2022:
     * Mining Software Repositories Conference [(MSR)](https://conf.researchr.org/home/msr-2022):
         * [Technical Track](https://conf.researchr.org/committee/msr-2022/msr-2022-technical-papers-program-committee)
+        * [Shadow PC mentoring](https://conf.researchr.org/committee/msr-2022/msr-2022-shadow-pc-shadow-pc-advisors)
     * International Conference on Software Maintenance and Evolution [(SANER)](https://saner2022.uom.gr):
         * [Technical Track](https://saner2022.uom.gr/programCommittee)
     * International Conference on Program Comprehension [(ICPC)](https://conf.researchr.org/home/icpc-2022):
