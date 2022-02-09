@@ -32,6 +32,7 @@ header:
     * International Workshop on Recruiting Participants for Empirical Software Engineering [(RoPES)](https://ropes-workshops.github.io/ropes22/)
     * International Conference on Software and Systems Processes [(ICGSE)](https://resources.sei.cmu.edu/news-events/events/icssp/organization.cfm)
     * International Conference on the Quality of Information and Communications Technology [(QUATIC)](https://2022.quatic.org/home)      
+    * VII Workshop sobre Aspectos Sociais, Humanos e Econômicos de Software [(WASHES)](https://sites.google.com/view/washes2022/home) 
 <br/>
 * 2021:
     * International Conference on Software Maintenance and Evolution [(ICSME)](https://icsme2021.github.io/):
