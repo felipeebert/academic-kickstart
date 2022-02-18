@@ -88,16 +88,16 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "f.ebert {at} tue.nl"
+email = "f.ebert {at} jads.nl"
 phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "", city = "Eindhoven", region = "", postcode = "5600 MB", country = "The Netherlands", country_code = "NL"}
+#address = {street = "", city = "Eindhoven", region = "", postcode = "5600 MB", country = "The Netherlands", country_code = "NL"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "51.448710", longitude = "5.490707"}
+#coordinates = {latitude = "51.448710", longitude = "5.490707"}
 
 # Directions for visitors to locate you.
 directions = ""
@@ -111,13 +111,13 @@ appointment_url = ""
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
-contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "felipe_fifo", link = "https://twitter.com/felipe_fifo"},
-  {icon = "skype", icon_pack = "fab", name = "felipe.ebert", link = "skype:felipe.ebert?call"},
+#contact_links = [
+#  {icon = "twitter", icon_pack = "fab", name = "felipe_fifo", link = "https://twitter.com/felipe_fifo"},
+#  {icon = "skype", icon_pack = "fab", name = "felipe.ebert", link = "skype:felipe.ebert?call"},
   # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
-  ]
+#  ]
 
 ############################
 ## Social
