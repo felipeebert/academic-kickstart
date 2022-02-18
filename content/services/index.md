@@ -20,6 +20,16 @@ header:
 * 9th Workshop on Software Visualization, Evolution and Maintenance - [VEM](#) (Collocated with [CBSoft 2021](http://cbsoft2021.joinville.udesc.br/)): co-chair  
 
 
+#### Journal Reviews:
+* Empirical Software Engineering (EMSE)
+* Transactions on Software Engineering (TSE)
+* Journal of Systems & Software (JSS)
+* Software Engineering and Methodology (TOSEM)
+* IEEE Software
+* Science of Computer Programming (Original Software Publications)
+* Institution of Engineering and Technology (IET) Software
+
+
 #### Program Committee Member:
 * 2022:
     * Mining Software Repositories Conference [(MSR)](https://conf.researchr.org/home/msr-2022):
@@ -32,7 +42,7 @@ header:
     * International Workshop on Recruiting Participants for Empirical Software Engineering [(RoPES)](https://ropes-workshops.github.io/ropes22/)
     * International Conference on Software and Systems Processes [(ICGSE)](https://resources.sei.cmu.edu/news-events/events/icssp/organization.cfm)
     * International Conference on the Quality of Information and Communications Technology [(QUATIC)](https://2022.quatic.org/home)      
-    * VII Workshop sobre Aspectos Sociais, Humanos e Econômicos de Software [(WASHES)](https://sites.google.com/view/washes2022/home) 
+    * VII Workshop sobre Aspectos Sociais, Humanos e Econômicos de Software [(WASHES)](https://sites.google.com/view/washes2022/home)
 <br/>
 * 2021:
     * International Conference on Software Maintenance and Evolution [(ICSME)](https://icsme2021.github.io/):
@@ -73,16 +83,7 @@ header:
 <br/>
 * 2017:
     * The 3rd International Conference on Technology Trends (CITT'2017)
-
-
-#### Journal Reviews:
-* Empirical Software Engineering (EMSE)
-* Transactions on Software Engineering (TSE)
-* Journal of Systems & Software (JSS)
-* IEEE Software
-* Science of Computer Programming (Original Software Publications)
-* Institution of Engineering and Technology (IET) Software
-
+    
 
 #### Student Volunteer:
 * Systems, Programming, Languages and Applications: Software for Humanity (SPLASH'2016)
