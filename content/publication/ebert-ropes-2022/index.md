@@ -1,6 +1,6 @@
 ---
 title: "On Recruiting Experienced GitHub Contributors for Interviews and Surveys on Prolific"
-date: 2022-01-01
+date: 2022-02-17
 publishDate: 2022-02-21T09:51:01.788548Z
 authors: [admin, alexander-serebrenik, christoph-treude, nicole-novielli, fernando-castor]
 publication_types: ["1"]
