@@ -45,6 +45,7 @@ header:
     * VII Workshop sobre Aspectos Sociais, Humanos e Econômicos de Software [(WASHES)](https://sites.google.com/view/washes2022/home)
     * XXXVI Brazilian Symposium on Software Engineering [(SBES)](https://cbsoft2022.facom.ufu.br/sbes-pesquisa.php):
         * [Insightful Ideas & Emerging Results Track](https://cbsoft2022.facom.ufu.br/sbes-ideias.php)
+    * 21st Belgium-Netherlands Software Evolution Workshop [(BENEVOL 2022)](https://benevol2022.github.io)
 <br/>
 * 2021:
     * International Conference on Software Maintenance and Evolution [(ICSME)](https://icsme2021.github.io/):
